@@ -57,3 +57,4 @@ except KeyboardInterrupt:
 except socket.error:
 	print("\ Host not responding :(")
 	sys.exit()
+#test write
